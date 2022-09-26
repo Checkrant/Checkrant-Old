@@ -5,7 +5,8 @@ Project created for the Software Development Fundamentals module.
 * [Alycia Lima](https://www.linkedin.com/in/alycialimafurtado/)
 * [Eduarda Figueredo](https://www.linkedin.com/in/eduarda-souza-figueredo-293074232/)
 * [Diego Escorel](https://www.linkedin.com/in/diego-escorel-35164b246/)
-* Amanda Carvalho
+* [Gabriel Lopes](https://www.linkedin.com/in/gabriellopesaraujo/)
+* Gabriel Galdino
 ## What is this project?
 Checkrant is a website used for restaurant evaluation based on users reviews.
 ## How is this project useful?
@@ -31,7 +32,8 @@ Projeto idealizado para a disciplina de Fundamentos de Desenvolvimento de Softwa
 * [Alycia Lima](https://www.linkedin.com/in/alycialimafurtado/)
 * [Eduarda Figueredo](https://www.linkedin.com/in/eduarda-souza-figueredo-293074232/)
 * [Diego Escorel](https://www.linkedin.com/in/diego-escorel-35164b246/)
-* Amanda Carvalho
+* [Gabriel Lopes](https://www.linkedin.com/in/gabriellopesaraujo/)
+* Gabriel Galdino
 ## O que é esse projeto?
 Checkrant é um website usado para a avaliação de restaurantes baseados em avaliações de usuários.
 ## Como esse projeto é útil?
